@@ -1,0 +1,2 @@
+ADM001,Admin,admin@gmail.com,IT,JAVA,12345
+123,admin1,admin1@gmail.com,IT,Java,12345

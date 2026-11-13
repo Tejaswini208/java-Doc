@@ -1,0 +1,4 @@
+STU001,Gorrela Tejaswini,25b01a1252@svecw.edu.in,IT,A,1234
+25B01A1244,Jagruthy Ratna,25b01a1244@svecw.edu.in,IT,A,5678
+25B01A1252,Gorrela Tejaswini,teja@gmail.com,IT,A,111
+25B01A1213,Neethu Sree Lasya,neethu@gmail.com,IT,A,222
